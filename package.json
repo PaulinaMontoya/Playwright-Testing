@@ -1,0 +1,26 @@
+{
+  "name": "playwright-testing",
+  "version": "1.0.0",
+  "description": "Test script with Playwright and Typescript",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulinaMontoya/Playwright-Testing.git"
+  },
+  "keywords": [
+    "automation-testing",
+    "paywright",
+    "typescript"
+  ],
+  "author": "Paulina Montoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulinaMontoya/Playwright-Testing/issues"
+  },
+  "homepage": "https://github.com/PaulinaMontoya/Playwright-Testing#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  }
+}
